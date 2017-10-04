@@ -1,0 +1,45 @@
+/*over all font type*/
+* {
+  font-family: helvetica;
+}
+
+/*Dasmoto's Arts and Crafts*/
+h1 {
+  font-family: helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+/*Bolt Blue Price Describtion*/
+.price {
+  font-family: helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+/*Brushes Frames Paint*/
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/*Brushes*/
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+/*Frames*/
+.frames {
+
+  background-color: lightcoral;
+}
+
+/*Paint*/
+.paint {
+  background-color: skyblue;
+}
